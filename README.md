@@ -1,3 +1,10 @@
+# For MSA Marker
+The Assignment done is the Frontend and Backend Assignment. 
+
+The Frontend is a simple country flag searcher in React using an external API, which displays the flag by providing the name. It is located under /1. Frontend/assignment-app/ .
+
+The Backend Assignment is an API that can retrieve the capital of a given country using the same external API and simple CRUD endpoints that can retrieve random emojis and add emojis to the random list. The location of the backend app is 2. Backend/Assignment/ .
+
 # Microsoft Student Accelerator New Zealand 2022 Phase 2
 Welcome to the 2022 NZMSA Phase 2. Please make sure you have read through this README document before starting. We will continuously update this repository as we find typos or documentations that need clarification. 
 
